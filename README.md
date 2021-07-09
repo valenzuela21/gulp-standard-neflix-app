@@ -8,9 +8,16 @@ cd netflix_inicio
 npm install
 ```
 
-Start task with gulp
+Start task with gulpfile.js
 ```console
 gulp watch
+```
+
+Other
+```console
+gulp img
+gulp css
+gulp js
 ```
 
 Config standard gulpfile config.
