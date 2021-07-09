@@ -5,6 +5,8 @@
 Start Project
 ```console
 cd netflix_inicio
+npm i -g gulp
+gulp -v
 npm install
 ```
 
