@@ -2,11 +2,16 @@
 
 ![alt text](https://raw.githubusercontent.com/valenzuela21/gulp-standard-netflix-app/main/gulp-sass-html-css-js.jpg)
 
+Require
+```console
+npm i -g gulp
+gulp -v
+```
+
+
 Start Project
 ```console
 cd netflix_inicio
-npm i -g gulp
-gulp -v
 npm install
 ```
 
