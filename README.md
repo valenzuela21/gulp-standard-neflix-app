@@ -1,15 +1,15 @@
 # Gulp Netflix App - Standard
 
 ##Start Project
-´´´
+```console
 cd netflix_inicio
 npm install
-´´´
+```
 
-## Start task with gulp
-´´´
+##Start task with gulp
+```console
 gulp watch
-´´´
+```
 
 
 
