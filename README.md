@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/valenzuela21/gulp-standard-netflix-app/main/gulp-sass-html-css-js.jpg)
 
-Require
+Require package npm
 ```console
 npm i -g gulp
 gulp -v
