@@ -1,1 +1,1 @@
-# Gulp Nefflix App - Standard
+# Gulp Netflix App - Standard
